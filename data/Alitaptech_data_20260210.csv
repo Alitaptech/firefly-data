@@ -1,1 +1,15 @@
 Pi_Time_Source,Arduino_Timestamp,Temperature_C,Humidity_Percent,Humidifier_State,Lights_State,Firefly_Detection,Pi_Receive_Time
+system,20:57:07,27.7,74.8,OFF,OFF,Outside capture hours,2026-02-10 20:57:07
+system,20:57:12,27.7,74.7,OFF,OFF,Outside capture hours,2026-02-10 20:57:15
+system,20:57:17,27.8,74.6,OFF,OFF,Outside capture hours,2026-02-10 20:57:17
+system,20:57:22,27.8,74.5,OFF,OFF,Outside capture hours,2026-02-10 20:57:23
+system,20:57:27,27.8,74.4,OFF,OFF,Outside capture hours,2026-02-10 20:57:28
+system,20:57:32,27.8,74.4,OFF,OFF,Outside capture hours,2026-02-10 20:57:33
+internet,21:02:26,26.9,75.2,ON,OFF,Strong light detected,2026-02-10 21:02:26
+internet,21:02:31,27.6,75.0,ON,OFF,Strong light detected,2026-02-10 21:02:45
+internet,21:02:36,27.6,74.8,ON,OFF,Strong light detected,2026-02-10 21:02:46
+internet,21:02:41,27.7,74.6,OFF,OFF,Strong light detected,2026-02-10 21:02:46
+internet,21:02:46,27.7,74.5,OFF,OFF,Strong light detected,2026-02-10 21:02:47
+internet,21:02:51,27.1,74.3,OFF,OFF,Strong light detected,2026-02-10 21:02:52
+internet,21:02:56,27.8,74.2,OFF,OFF,Strong light detected,2026-02-10 21:02:57
+internet,21:03:01,27.8,74.1,OFF,ON,Strong light detected,2026-02-10 21:03:01
